@@ -179,10 +179,12 @@
         <object>Property__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <!--
     <tabSettings>
         <tab>Broker__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
+-->
     <tabSettings>
         <tab>Property__c</tab>
         <visibility>Visible</visibility>
